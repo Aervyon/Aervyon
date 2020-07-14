@@ -1,5 +1,5 @@
 <p>
-    <img src="https://github.com/VoidNulll/VoidNulll/blob/master/Banner.png?raw=true" alt="A small banner, you aren't missing much" width="400px"></i>
+    <img src="https://github.com/VoidNulll/VoidNulll/blob/master/Banner.svg?raw=true" alt="A small banner, you aren't missing much" width="400px"></i>
 </p>
 
 ### Hi!
