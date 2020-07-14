@@ -16,7 +16,7 @@ If you're a discord user you might enjoy this repository. *You do need a Windows
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidNulll&repo=jsLiam&bg_color=464646&text_color=ffffff&title_color=77C8FF" />
 </a>
 
-Here is a Discord updater for anyone on Linux who can't get their app to update,. *Debian based distrobutions only*
+Here is a Discord updater for anyone on Linux who can't get their app to update. *Debian based distrobutions only*
 <a href="https://github.com/VoidNulll/discord-updaters">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidNulll&repo=discord-updaters&bg_color=464646&text_color=ffffff&title_color=77C8FF" />
 </a>
