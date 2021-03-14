@@ -8,8 +8,8 @@ assignees: VoidNulll
 ---
 
 **What you're reporting about**
-[ ] - Site issue/bug
-[ ] - Other issue/bug (N/A currently)
+- [x] - Site issue/bug
+- [ ] - Other issue/bug (N/A currently)
 
 **Describe the bug**
 A clear and concise description of what the bug is.
