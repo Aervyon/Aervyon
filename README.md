@@ -6,6 +6,8 @@
 
 I'm Aervyon, a self-proclaimed web developer.
 
+🏫 Full time student
+
 🔑 Do everyone (and yourself!) a favor and use a password manager
 
 🌐 https://aervyon.com - My website, built on Nuxt & Tailwind. Has a few more details about myself
