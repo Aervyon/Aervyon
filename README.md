@@ -20,6 +20,8 @@ Most of my backend code is in TS/JS as they were the first two languages I delve
 
 As for frontend, I know JavaScript, Vue, Tailwind, a little bit of CSS, and some HTML.
 
+I am learning and writing code in golang, which some of it can be viewed at [Folderr CLI](https://github.com/Folderr/folderr-cli)
+
 I was learning python, however, I have no use for it *at the time of writing*
 
 *Stay tuned for the potential to see some snakes 🐍*
