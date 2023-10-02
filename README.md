@@ -11,6 +11,7 @@ You can refer to me by "Aervy"
 
 🌐 https://aervyon.com - My website, built on Nuxt & Tailwind. Has a few more details about myself
 Working on a V4 built on Nuxt 3 & Tailwind
+
 ✉ aervy@aervyon.com
 
 🔑 Do everyone (and yourself!) a favor and use a password manager
