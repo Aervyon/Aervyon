@@ -1,7 +1,7 @@
 # Hello World!
 
 <p>
-    <img src="https://github.com/Aervyon/Aervyon/blob/master/Banner.svg?raw=true" alt="A small banner, you aren't missing much" width="1500px"></i>
+    <img src="https://github.com/Aervyon/Aervyon/blob/master/New-Header.svg?raw=true" alt="A small banner, you aren't missing much. It's just a fancy typographical banner of the name 'Aervyon'" width="1500px"></i>
 </p>
 
 I'm Aervyon, a web developer.
