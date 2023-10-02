@@ -4,13 +4,12 @@
     <img src="https://github.com/Aervyon/Aervyon/blob/master/Banner.svg?raw=true" alt="A small banner, you aren't missing much" width="1500px"></i>
 </p>
 
-I'm Aervyon, a self-proclaimed web developer.
+I'm Aervyon, a web developer.
 
-🏫 Full time student
+🏫 Part-time student
 
 🌐 https://aervyon.com - My website, built on Nuxt & Tailwind. Has a few more details about myself
-
-⛔ I'm busy and am not currently tending to code issues.
+Working on a V4 built on Nuxt 3 & Tailwind
 
 🔑 Do everyone (and yourself!) a favor and use a password manager
 
@@ -18,13 +17,9 @@ I'm Aervyon, a self-proclaimed web developer.
 
 Most of my backend code is in TS/JS as they were the first two languages I delved into.
 
-As for frontend, I know JavaScript, Vue, Tailwind, a little bit of CSS, and some HTML.
+As for frontend, I know JavaScript/TS, Vue, Tailwind, and CSS.
 
 I am learning and writing code in golang, which some of it can be viewed at [Folderr CLI](https://github.com/Folderr/folderr-cli)
-
-I was learning python, however, I have no use for it *at the time of writing*
-
-*Stay tuned for the potential to see some snakes 🐍*
 
 I mainly work on backend APIs that utilize <a href="https://expressjs.com">ExpressJS</a> and <a href="https://fastify.io">Fastify</a> for web servers, with the database being MongoDB paired with <a href="https://https://mongoosejs.com/">Mongoose ODM</a>
 
