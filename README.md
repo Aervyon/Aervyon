@@ -20,7 +20,7 @@ As for frontend, I know TypeScript, Vue, some React, Tailwind, and CSS.
 
 I am learning golang, which can be viewed at [Folderr CLI](https://github.com/Folderr/foldcli) or [Mirror Server](https://github.com/Folderr/Mirror-Server)
 
-I mainly work on backend APIs that utilize [ExpressJS](https://expressjs.com) and [Fastify](https://fastify.dev) for web servers (with a preference for Fastify due to typings and performance), with the database *usually* being MongoDB
+I mainly work on backend APIs that utilize [ExpressJS](https://expressjs.com) or [Fastify](https://fastify.dev) for web servers (with a preference for Fastify due to typings and performance), with the database *usually* being MongoDB
 
 If you would like to learn more, please visit https://aervyon.com
 
