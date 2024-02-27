@@ -4,17 +4,13 @@
     <img src="https://github.com/Aervyon/Aervyon/blob/master/New-Header.svg?raw=true" alt="A small banner, you aren't missing much. It's just a fancy typographical banner of the name 'Aervyon'" width="1500px"></i>
 </p>
 
-I'm Aervyon, a web developer.
-You can refer to me by "Aervy"
+I'm Aervyon `(or: Aervy)`, a web & backend programmer
 
 🏫 Part-time student
 
-🌐 https://aervyon.com - My website, built on Nuxt & Tailwind. Has a few more details about myself
-Working on a V4 built on Nuxt 3 & Tailwind
+🌐 https://aervyon.com - My website, built on Nuxt & Tailwind.
 
 ✉ aervy@aervyon.com
-
-🔑 Do everyone (and yourself!) a favor and use a password manager
 
 ## Experience
 
