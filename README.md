@@ -1,7 +1,7 @@
-# Hello World, I'm Aervyon!
+# HEY, I'm Aervyon.
 
 <p>
-    <img src="https://github.com/Aervyon/Aervyon/blob/master/New-Header.svg?raw=true" alt="A small banner, you aren't missing much. It's just a fancy typographical banner of the name 'Aervyon'" width="1500px"></i>
+    <img src="https://github.com/Aervyon/aervyon.github.io/blob/main/public/OpenGraph_Hex_Glitch.png?raw=true" alt="A small banner, you aren't missing much. It's just a fancy typographical banner of the name 'Aervyon'" width="1500px"></i>
 </p>
 
 I'm Aervyon `(or: Aervy)`, a web & backend programmer
@@ -10,17 +10,19 @@ I'm Aervyon `(or: Aervy)`, a web & backend programmer
 
 🌐 https://aervyon.com - My website, built on Nuxt & Tailwind.
 
-✉ aervy@aervyon.com
+📧 aervy@aervyon.com Contact me
 
 ## Experience
 
 Most of my backend code is in TS as it was the first language I delved into.
 
-As for frontend, I know JavaScript/TS, Vue, Tailwind, and CSS.
+As for frontend, I know TypeScript, Vue, some React, Tailwind, and CSS.
 
 I am learning golang, which can be viewed at [Folderr CLI](https://github.com/Folderr/foldcli) or [Mirror Server](https://github.com/Folderr/Mirror-Server)
 
-I mainly work on backend APIs that utilize <a href="https://expressjs.com">ExpressJS</a> and <a href="https://fastify.io">Fastify</a> for web servers, with the database being MongoDB paired with <a href="https://https://mongoosejs.com/">Mongoose ODM</a>
+I mainly work on backend APIs that utilize [ExpressJS](https://expressjs.com) and [Fastify](https://fastify.dev) for web servers (with a preference for Fastify due to typings and performance), with the database *usually* being MongoDB
+
+If you would like to learn more, please visit https://aervyon.com
 
 ### Statistics & projects
 
